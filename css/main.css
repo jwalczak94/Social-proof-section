@@ -174,7 +174,7 @@ li {
 }
 
 body {
-  background-image: url(../../dist/img/bg-pattern-top-mobile.svg), url(../../dist/img/bg-pattern-bottom-mobile.svg);
+  background-image: url(../../img/bg-pattern-top-mobile.svg), url(../../img/bg-pattern-bottom-mobile.svg);
   background-repeat: no-repeat;
   background-position: top left, bottom right;
   color: #fff;
@@ -187,7 +187,7 @@ body {
 }
 @media (min-width: 500px) {
   body {
-    background-image: url(../../dist/img/bg-pattern-top-desktop.svg), url(../../dist/img/bg-pattern-bottom-desktop.svg);
+    background-image: url(../../img/bg-pattern-top-desktop.svg), url(../../img/bg-pattern-bottom-desktop.svg);
   }
 }
 @media (min-width: 1000px) {
