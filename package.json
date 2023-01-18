@@ -1,14 +1,15 @@
 {
-  "name": "challenge11",
+  "name": "social_proof",
   "version": "1.0.0",
-  "description": "![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^7.0.3"
+    "sass": "^1.57.1"
   }
 }
